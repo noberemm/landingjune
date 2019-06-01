@@ -1,0 +1,94 @@
+/* fonts and colors */
+
+body{
+  background: #EEEEEE;
+  color: #757575;
+  font-size: 20px;
+  font-family: 'Source Sans Pro';
+  margin: 0px;
+}
+h1{
+  font-family: 'Source Sans Pro';
+  color: #42A1C1;
+  font-weight: semibold;
+  font-size: 35px;
+}
+h2 {
+  font-family: 'Source Sans Pro';
+  color: #757575;
+  font-weight: semibold;
+  font-size: 25px;
+}
+a {
+  text-decoration: none;
+  color: #10283C;
+}
+a:hover {
+  text-decoration: none;
+  color: #42A1C1;
+}
+
+ul{
+  list-style: none;
+}
+
+
+/* custom styling */
+
+#banner{
+  background-image: url(https://images.unsplash.com/photo-1455122911485-162143b806b8?ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80);
+  padding: 80px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+#banner h1 {
+  color: #42A1C1;
+  font-size: 50px;
+  text-shadow: 1px 1px 1px #EEEEEE;
+  
+}
+
+#banner p {
+    font-size: 30px;
+    font-weight: lighter
+}
+
+
+.section{
+  padding: 50px;
+  text-align: center;
+  font-weight: lighter
+}
+
+
+#footer {
+  background: #10283C;
+  color: white;
+  font-size: 10;
+  padding: 50px;
+
+}
+
+
+
+
+
+.section1 {
+    background: white;
+    padding: 50px;
+    margin: 100px;
+    box-shadow: 1px 1px 1px #EEEEEE;
+    border-radius: 2px;
+}
+
+
+.fab {
+color: #EEEEEE;
+font-size: 25px;
+}
+
+.fab:hover{
+  color: #D2D1D1;
+}
+
